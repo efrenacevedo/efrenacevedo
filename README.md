@@ -1,5 +1,7 @@
 # 💫 About Me:
 Hi, my name is Jose Efren Acevedo. I'm from México<br>💻 I'm currently studying software development<br>🌱 I'm currently learning Kotlin, Python and PHP
+
+##
 <img align="right" height="150" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e472pw9x7ah5z2x5rgw0xh84xttchbrfbh4dz20f7wy&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ## 🌐 Socials:
