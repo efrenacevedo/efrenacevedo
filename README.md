@@ -5,8 +5,7 @@ Hi, my name is Jose Efren Acevedo. I'm from México<br>💻 I'm currently studyi
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joseefren22) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joseefrenacevedo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EfrenAcevedo) 
 
-# 💻 Tech Stack:
-
+# 💻 Programming languages:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -24,7 +23,8 @@ Hi, my name is Jose Efren Acevedo. I'm from México<br>💻 I'm currently studyi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
-#
+
+##
 <img align="right" height="150" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e472pw9x7ah5z2x5rgw0xh84xttchbrfbh4dz20f7wy&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 # 📊 GitHub Stats:
