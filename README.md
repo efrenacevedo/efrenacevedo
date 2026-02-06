@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Jose Efren Acevedo. I'm from México<br>💻 I'm currently studying software development<br>🌱 I'm currently learning Kotlin, Python and PHP
+Hi, my name is Jose Efren Acevedo. I'm from México<br>💻 I'm software development(Backend and Frontend)<br>🌱 I'm currently learning Kotlin, Python and PHP
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=efrenacevedo&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
